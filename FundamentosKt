@@ -15,3 +15,92 @@ fun main()
          ("FIM")
          ("FIM")
          ("FIM DO DIALOGO !!!!!!")
+fun main() {
+    val kotlin = "🙂"
+    println(kotlin)
+}  println("Hello, world!!!")
+}   
+   // Variáveis
+   //
+   //var-mutável- seu valor pode ser alterado
+   //val-não mutável- não é possível alterar seu valor
+   //
+   //Tipos de variáveis 
+   //
+   // Boolean- verdadeiro ou falso
+   // String - qualquer texto de qualquer tamanho dentro de "" 
+   // Char - APENAS UM caractere dentro de ''
+   // Int - Números inteiros 
+   // Dounble - Número decimais(de forma arrendondada)
+   // long - Números reais (de forma longa)
+   // Float - Números decimais (de forma definitiva)
+   // 
+   // Estrutura de uma variável 
+   // 
+   // var nomeDela = "Valor"
+   // var nomeDela
+    //variaveis
+    //
+    //var - mutavel - seu valor pode ser alterado
+    //val - nao mutavel - nao e possivel alterar seu valor 
+    //
+    // tipos de variaveis
+    // 
+    // boolean - verdadeiro ou falso 
+    // string - qualquer texto de qualquer tamanho dentro de "" --> ex: "pizza"
+    // char - apenas um caractere dentro de '' --> ex:"a"
+    // int - numeros inteiros --> ex: 6
+    // double - numeros decimais (de forma arredondada) --> ex: 71.23
+    // long - numeros reais (de forma longa) --> ex: 500000000000000000
+    // float - numeros decimais (de forma definitivas) --> ex: 71.2323423455456
+    // 
+    // estrutura de uma variavel  
+    // 
+    // var nome dela = "valor"
+    // var nome dela:?
+    var tartaruga = 1.3     
+    fun main() {
+    val kotlin = "🙂"
+    println(kotlin)
+}  println("Hello, world!!!")
+}   
+   // Variáveis
+   //
+   //var-mutável- seu valor pode ser alterado
+   //val-não mutável- não é possível alterar seu valor
+   //
+   //Tipos de variáveis 
+   //
+   // Boolean- verdadeiro ou falso
+   // String - qualquer texto de qualquer tamanho dentro de "" 
+   // Char - APENAS UM caractere dentro de ''
+   // Int - Números inteiros 
+   // Dounble - Número decimais(de forma arrendondada)
+   // long - Números reais (de forma longa)
+   // Float - Números decimais (de forma definitiva)
+   // 
+   // Estrutura de uma variável 
+   // 
+   // var nomeDela = "Valor"
+   // var nomeDela
+    //variaveis
+    //
+    //var - mutavel - seu valor pode ser alterado
+    //val - nao mutavel - nao e possivel alterar seu valor 
+    //
+    // tipos de variaveis
+    // 
+    // boolean - verdadeiro ou falso 
+    // string - qualquer texto de qualquer tamanho dentro de "" --> ex: "pizza"
+    // char - apenas um caractere dentro de '' --> ex:"a"
+    // int - numeros inteiros --> ex: 6
+    // double - numeros decimais (de forma arredondada) --> ex: 71.23
+    // long - numeros reais (de forma longa) --> ex: 500000000000000000
+    // float - numeros decimais (de forma definitivas) --> ex: 71.2323423455456
+    // 
+    // estrutura de uma variavel  
+    // 
+    // var nome dela = "valor"
+    // var nome dela:?
+    var tartaruga = 1.3     
+    
